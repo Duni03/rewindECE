@@ -1,0 +1,180 @@
+.head
+{
+  font-family: 'Press Start 2P', cursive;
+  color: aqua;
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+}
+.ok{
+  padding: 30px;
+  background-image: linear-gradient(rgb(0, 3, 163),rgb(68, 79, 238));
+}
+.hash
+{
+  font-family: 'Courier Prime', monospace;
+  font-size: 45px;
+  color: azure;
+  padding: 80px;
+  text-align: center;
+  height: 300px;
+}
+.about
+{
+  font-family: 'Comfortaa', cursive;
+  background-color: aliceblue;
+  border-radius: 25px;
+  padding: 50px;
+  text-align: center;
+}
+span::before
+{
+  content:"";
+  animation: animate infinite 40s;
+}
+@keyframes animate
+{
+  0%{content:"REWIND";}
+  2.5%{content:"Jntuh18-22";}
+  5%{content:"Ece";}
+  7.5%{content:"m1_paper_rocket";}
+  10%{content:"bee";}
+  12.5%{content:"drawing";}
+  15%{content:"spoorthi";}
+  17.5%{content:"memories";}
+  20%{content:"ul";}
+  22.5%{content:"cr";}
+  25%{content:"canteen";}
+  27.5%{content:"116";}
+  30%{content:"auto";}
+  32.5%{content:"pubg";}
+  35%{content:"memes";}
+  37.5%{content:"groups";}
+  40%{content:"dancers";}
+  42.5%{content:"mini";}
+  45%{content:"sare,#antaga";}
+  47.5%{content:"first_benchers";}
+  50%{content:"birthdays";}
+  52.5%{content:"bot";}
+  55%{content:"hostel_life";}
+  57.5%{content:"universal_bro";}
+  60%{content:"75%+";}
+  62.5%{content:"bunk!=bunk";}
+  65%{content:"gang";}
+  67.5%{content:"lucky_G2";}
+  70%{content:"records";}
+  72.5%{content:"puli(s)";}
+  75%{content:"backbenchers";}
+  77.5%{content:"topper";}
+  80%{content:"bhai";}
+  82.5%{content:"gymfreak";}
+  85%{content:"sharafbrooooo..";}
+  87.5%{content:"kobe";}
+  90%{content:"babai";}
+  92.5%{content:"muazswag";}
+  95%{content:"LE_lovely_engineers";}
+  97.5%{content:"whatsapp_spam";}
+  100%{content :":3"}
+}
+.ifr
+{
+  height: 393.75px;
+  width: 700px;
+}
+.back
+{
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+.styear
+{
+  font-family: 'Rubik', sans-serif;
+  color: rgb(44, 5, 5);
+  text-align: center;
+  padding-top: 7%;
+  margin: auto;
+}
+.ndyear
+{
+  color: rgb(31, 0, 0);
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 6%;
+  margin: auto;
+}
+.vid
+{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+.nihal
+{
+  font-family: 'Comfortaa', cursive;
+  font-size: 13px;
+  padding: 25px;
+  background-color: rgb(0, 0, 58);
+  color: aliceblue;
+  text-align: center;
+}
+.meme
+{
+  font-family: 'Libre Barcode 39', cursive;
+  font-size: 47px;
+}
+@media only screen and (max-width: 600px)
+{
+  .head
+{
+  font-family: 'Press Start 2P', cursive;
+  color: aqua;
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+}
+.about
+{
+  font-family: 'Comfortaa', cursive;
+  font-size: 11px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 25px;
+  text-align: center;
+}
+.hash
+{
+  font-family: 'Courier Prime', monospace;
+  font-size: 22px;
+  color: azure;
+  padding: 40px;
+  text-align: center;
+  height: 250px;
+}
+.ifr
+{
+  height: 225px;
+  width: 400px;
+}
+.nihal
+{
+  font-family: 'Comfortaa', cursive;
+  font-size: 10px;
+  padding: 25px;
+  background-color: rgb(0, 0, 58);
+  color: aliceblue;
+  text-align: center;
+}
+.meme
+{
+  font-family: 'Libre Barcode 39', cursive;
+  font-size: 27px;
+}
+}
+@media only screen and (max-width: 380px)
+{
+  .ifr
+{
+  height: 168.75px;
+  width: 300px;
+}
+}
