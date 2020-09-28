@@ -144,8 +144,8 @@ span::before
 .hash
 {
   font-family: 'Courier Prime', monospace;
-  font-size: 22px;
-  color: azure;
+  font-size: 30px;
+  color: white;
   padding: 40px;
   text-align: center;
   height: 250px;
