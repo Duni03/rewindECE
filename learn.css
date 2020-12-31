@@ -117,7 +117,7 @@ span::before
 {
   color: rgb(31, 0, 0);
   font-family: 'Rubik', sans-serif;
-  text-align: centre ;
+  text-align: center;
   padding-top: 7%;
   padding-bottom: 6%;
   margin: auto;
