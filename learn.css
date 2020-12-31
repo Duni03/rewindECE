@@ -85,6 +85,16 @@ span::before
 {
   background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
 }
+.dis1
+{
+  text-align: center;
+  padding-top: 50px;
+}
+.pop
+{
+  height: 31px;
+  width: 31px;
+}
 .styear
 {
   font-family: 'Rubik', sans-serif;
