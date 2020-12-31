@@ -37,43 +37,43 @@ span::before
   0%{content:"REWIND";}
   2.5%{content:"Jntuh18-22";}
   5%{content:"Ece";}
-  7.5%{content:"m1_paper_rocket";}
-  10%{content:"bee";}
-  12.5%{content:"drawing";}
+  7.5%{content:"116";}
+  10%{content:"games";}
+  12.5%{content:"exams";}
   15%{content:"spoorthi";}
-  17.5%{content:"memories";}
+  17.5%{content:"freshers";}
   20%{content:"ul";}
   22.5%{content:"cr";}
   25%{content:"canteen";}
-  27.5%{content:"116";}
+  27.5%{content:"spandana";}
   30%{content:"auto";}
   32.5%{content:"pubg";}
   35%{content:"memes";}
-  37.5%{content:"groups";}
+  37.5%{content:"whatsapp_spam";}
   40%{content:"dancers";}
-  42.5%{content:"mini";}
+  42.5%{content:"techies";}
   45%{content:"sare,#antaga";}
   47.5%{content:"first_benchers";}
   50%{content:"birthdays";}
-  52.5%{content:"bot";}
+  52.5%{content:"mess";}
   55%{content:"hostel_life";}
-  57.5%{content:"universal_bro";}
+  57.5%{content:"interaction";}
   60%{content:"75%+";}
   62.5%{content:"bunk!=bunk";}
-  65%{content:"gang";}
+  65%{content:"BEE";}
   67.5%{content:"lucky_G2";}
   70%{content:"records";}
   72.5%{content:"puli(s)";}
   75%{content:"backbenchers";}
   77.5%{content:"topper";}
-  80%{content:"bhai";}
-  82.5%{content:"gymfreak";}
-  85%{content:"sharafbrooooo..";}
-  87.5%{content:"kobe";}
-  90%{content:"babai";}
-  92.5%{content:"muazswag";}
+  80%{content:"supplementary";}
+  82.5%{content:"Day Scholars";}
+  85%{content:"Drawing";}
+  87.5%{content:"Manjeera ,#forum";}
+  90%{content:"metro,#bus";}
+  92.5%{content:"pista, #mehfil";}
   95%{content:"LE_lovely_engineers";}
-  97.5%{content:"whatsapp_spam";}
+  97.5%{content:"online_classes";}
   100%{content :":3"}
 }
 .ifr
@@ -104,6 +104,15 @@ span::before
   margin: auto;
 }
 .ndyear
+{
+  color: rgb(31, 0, 0);
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 6%;
+  margin: auto;
+}
+.rdyear
 {
   color: rgb(31, 0, 0);
   font-family: 'Rubik', sans-serif;
