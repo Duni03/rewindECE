@@ -78,6 +78,7 @@ span::before
 }
 .ifr
 {
+  text-allign : centre ;
   height: 393.75px;
   width: 700px;
 }
@@ -116,7 +117,7 @@ span::before
 {
   color: rgb(31, 0, 0);
   font-family: 'Rubik', sans-serif;
-  text-align: center;
+  text-align: centre ;
   padding-top: 7%;
   padding-bottom: 6%;
   margin: auto;
