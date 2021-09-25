@@ -96,6 +96,28 @@ span::before
   height: 31px;
   width: 31px;
 }
+.tc1
+{
+  text-align: center;
+  padding: 5%;
+  border-radius: 25px;
+  background-image: url("abstract.jpg");
+  background-position: right 35% bottom 45%;
+}
+.btn{
+    border: 1px solid #f5f5f5;
+}
+.tcfont
+{
+  font-family: 'Niconne', cursive;
+  font-size: 52px;
+}
+.btn-outline-light{
+    background-color: transparent;
+    color: aliceblue;
+    border-style: solid;
+    border-color: antiquewhite;
+}
 .styear
 {
   font-family: 'Rubik', sans-serif;
