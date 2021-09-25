@@ -191,6 +191,13 @@ span::before
   font-family: 'Niconne', cursive;
   font-size: 25px;
 }
+body {
+  font-family: Arial, sans-serif;
+}
+  .rule1{
+  font-family: Tahoma, sans-serif;
+    font-size:18px;
+  }
 .hash
 {
   font-family: 'Courier Prime', monospace;
