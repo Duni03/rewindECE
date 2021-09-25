@@ -183,6 +183,11 @@ span::before
   padding: 25px;
   text-align: center;
 }
+.tcfont
+{
+  font-family: 'Niconne', cursive;
+  font-size: 25px;
+}
 .hash
 {
   font-family: 'Courier Prime', monospace;
