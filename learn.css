@@ -118,6 +118,9 @@ span::before
     border-style: solid;
     border-color: antiquewhite;
 }
+.rule1 {
+  font-family: Arial, sans-serif;
+}
 .styear
 {
   font-family: 'Rubik', sans-serif;
